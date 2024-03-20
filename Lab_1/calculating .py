@@ -8,6 +8,7 @@ symbol_in_str = 25
 symbol_in_book = symbol_in_str * str_str * str_book
 necessary_for_storage = symbol_in_book * 4
 volume_book_in_disk = volume_disc_b / necessary_for_storage
+print()
 
 
 
